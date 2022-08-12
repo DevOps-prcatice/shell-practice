@@ -1,0 +1,3 @@
+whoami
+ps -ef
+ls
